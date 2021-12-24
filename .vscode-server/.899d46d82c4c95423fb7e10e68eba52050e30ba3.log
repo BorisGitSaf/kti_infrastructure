@@ -1,0 +1,134 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 41899
+
+[13:27:47] Extension host agent started.
+[13:27:47] [127.0.0.1][fb6cfd6c][ExtensionHostConnection] New connection established.
+[13:27:47] [127.0.0.1][88dabc3e][ManagementConnection] New connection established.
+[13:27:47] [127.0.0.1][fb6cfd6c][ExtensionHostConnection] <1529> Launched Extension Host Process.
+[13:29:17] [127.0.0.1][88dabc3e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:29:17] [127.0.0.1][fb6cfd6c][ExtensionHostConnection] <1529> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[13:29:17] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:29:22] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:29:22] Cancelling previous shutdown timeout
+[13:29:22] [127.0.0.1][add33951][ManagementConnection] New connection established.
+[13:29:22] [127.0.0.1][14beef6b][ExtensionHostConnection] New connection established.
+[13:29:22] [127.0.0.1][14beef6b][ExtensionHostConnection] <1631> Launched Extension Host Process.
+[13:31:50] [127.0.0.1][add33951][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:31:51] [127.0.0.1][14beef6b][ExtensionHostConnection] <1631> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:31:51] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:31:51] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:31:57] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:31:57] Cancelling previous shutdown timeout
+[13:31:57] [127.0.0.1][09b674d3][ManagementConnection] New connection established.
+[13:31:57] [127.0.0.1][24155644][ExtensionHostConnection] New connection established.
+[13:31:57] [127.0.0.1][24155644][ExtensionHostConnection] <1761> Launched Extension Host Process.
+[13:32:05] [127.0.0.1][09b674d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:32:05] [127.0.0.1][24155644][ExtensionHostConnection] <1761> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:32:05] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:32:05] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:32:07] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:32:07] Cancelling previous shutdown timeout
+[13:32:07] [127.0.0.1][b36d6bba][ManagementConnection] New connection established.
+[13:32:07] [127.0.0.1][7a51020a][ExtensionHostConnection] New connection established.
+[13:32:07] [127.0.0.1][7a51020a][ExtensionHostConnection] <1854> Launched Extension Host Process.
+[13:32:09] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:32:09] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:32:09] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:32:09] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:32:09] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:32:09] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:32:10] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:32:10] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:32:10] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:32:10] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:32:10] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:32:10] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[13:34:14] [127.0.0.1][b36d6bba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:34:14] [127.0.0.1][7a51020a][ExtensionHostConnection] <1854> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:34:14] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:34:14] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:34:19] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:34:19] Cancelling previous shutdown timeout
+[13:34:19] [127.0.0.1][c04c17b9][ManagementConnection] New connection established.
+[13:34:19] [127.0.0.1][5cd817e8][ExtensionHostConnection] New connection established.
+[13:34:19] [127.0.0.1][5cd817e8][ExtensionHostConnection] <2033> Launched Extension Host Process.
+[13:34:30] [127.0.0.1][c04c17b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:34:30] [127.0.0.1][5cd817e8][ExtensionHostConnection] <2033> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:34:30] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:34:30] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:34:33] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:34:33] Cancelling previous shutdown timeout
+[13:34:33] [127.0.0.1][4a2b7865][ManagementConnection] New connection established.
+[13:34:33] [127.0.0.1][f36a5589][ExtensionHostConnection] New connection established.
+[13:34:33] [127.0.0.1][f36a5589][ExtensionHostConnection] <2126> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[13:39:33] New EH opened, aborting shutdown
+[13:51:41] [127.0.0.1][26bf59ef][ManagementConnection] New connection established.
+[13:51:41] [127.0.0.1][c3504453][ExtensionHostConnection] New connection established.
+[13:51:41] [127.0.0.1][c3504453][ExtensionHostConnection] <4116> Launched Extension Host Process.
+[13:52:34] [127.0.0.1][26bf59ef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:52:34] [127.0.0.1][c3504453][ExtensionHostConnection] <4116> Extension Host Process exited with code: 0, signal: null.
+[13:52:37] [127.0.0.1][80d71574][ManagementConnection] New connection established.
+[13:52:37] [127.0.0.1][3eeeec2f][ExtensionHostConnection] New connection established.
+[13:52:37] [127.0.0.1][3eeeec2f][ExtensionHostConnection] <4251> Launched Extension Host Process.
+[13:52:38] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:52:38] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:52:38] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:52:38] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:52:38] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:52:38] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:52:38] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:52:38] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:52:39] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:52:39] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[13:52:39] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /)
+[13:52:39] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[14:46:28] No ptyHost heartbeat after 6 seconds
+[14:52:14] Installing extension: ms-azuretools.vscode-docker
+[14:52:15] Downloaded extension: ms-azuretools.vscode-docker /home/safonovbe/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[14:52:16] Extracted extension to /home/safonovbe/.vscode-server/extensions/.262bfe6b-1b46-4b05-8525-f8bbdd11d343: ms-azuretools.vscode-docker
+[14:52:16] Renamed to /home/safonovbe/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[14:52:16] Extracting completed. ms-azuretools.vscode-docker
+[14:52:16] Extension installed successfully: ms-azuretools.vscode-docker
+[14:52:19] No ptyHost heartbeat after 6 seconds
+[15:19:07] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /home/safonovbe)
+[15:19:07] [File Watcher (parcel)] restarting watcher after error: std::bad_alloc
+[15:19:08] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/safonovbe)
+[15:19:08] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[15:19:08] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/safonovbe)
+[15:19:08] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[15:19:08] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/safonovbe)
+[15:19:08] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[15:19:08] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/safonovbe)
+[15:19:08] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[15:19:09] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/safonovbe)
+[15:19:09] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[16:18:58] [127.0.0.1][4a2b7865][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:18:59] [127.0.0.1][f36a5589][ExtensionHostConnection] <2126> Extension Host Process exited with code: 0, signal: null.
